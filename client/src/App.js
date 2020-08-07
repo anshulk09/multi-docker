@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div className='App'>
-        <header>Learn React</header>
+        <header>Fib calculator</header>
         <Link to='/'>Home</Link>
         <Link to='/otherpage'>Other Page</Link>
         <div>
